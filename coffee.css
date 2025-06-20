@@ -1,0 +1,105 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.signup-form {
+    width: 40%;
+    background: #fff;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+.signup-form h2 {
+    margin-bottom: 20px;
+}
+
+.background{
+    width: 100%;
+}
+.account{
+    position: absolute;
+    top: 435px;
+    
+}
+.a{
+    text-decoration: none;
+    color:#0056b3
+}
+.a:hover{
+    text-decoration: underline;
+    transition: 0.9s;
+}
+.bx{
+    background: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+p{
+    color: dimgray;
+    font-size: 14px;
+    margin-top: -20px;   
+    font-weight: 500;
+}
+h2{
+    font-weight: 600;
+}
+input{
+    border: none;
+    background-color: rgb(243, 243, 243);
+    border-radius: 10px;
+    width: 300px;
+
+  }
+.hus{
+      margin-left: 230px;
+      margin-top: 6px;
+      color: rgb(63, 63, 63);
+      font-size: 14px;
+      text-decoration: none;
+}
+.hu{
+  margin-top: 10px;
+  position: relative;
+}
+/* .btn{
+        background-color: rgb(30, 29, 29);
+}
+.fa-eye{
+    position: absolute;
+    top: 302px;
+    left: 600px;
+    cursor: pointer;
+}
+.i{
+   cursor: pointer; 
+}
+.Lam{
+    border: none;
+}
+.hide{
+    cursor: pointer;
+    
+}
+
+ */
+ .sign{
+    font-size: 10px;
+    margin-top: 5px;
+ }
+ .btnn{
+    width: 300px;
+    border: black;
+    border-radius: 10px;
+ }
+ 
