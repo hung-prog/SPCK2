@@ -1,0 +1,29 @@
+h1{
+    font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40%;
+    background: #fff;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.menu{
+    
+}
+body {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
